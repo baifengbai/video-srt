@@ -1,0 +1,2 @@
+import xunfei.offline_client
+import aliyun.offline_client
